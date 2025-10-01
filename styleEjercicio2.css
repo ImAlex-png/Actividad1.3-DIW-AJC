@@ -1,0 +1,45 @@
+.logo{
+    width: 100%;
+    text-align: center;
+}
+
+.imagenAnchoCompleto img{
+    width: 100%;
+    height: 50%;
+}
+.claseMedio{
+    width: 100%;
+}
+.imagenTexto{
+    float: left;
+    margin-top: 1%;
+    text-align: center;
+    width: 50%;
+}
+.imagenTexto img{
+    width: 50%;
+}
+.imagenTexto p{
+    text-align: center;
+}
+.imagenTexto2{
+    text-align: center;
+    width: 50%;
+    float: right;
+    margin-top: 1%;
+}
+.imagenTexto2 img{
+    width: 60%;
+}
+.imagenTexto2 p{
+    text-align: center;
+}
+.bloqueTexto {
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 20%;
+}
+.bloqueTexto p{
+    text-align: center;
+}
