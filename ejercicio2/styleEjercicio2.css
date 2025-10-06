@@ -1,0 +1,100 @@
+
+.menu{
+    width: 100%;
+    text-align: center;
+    float: left;
+    background-color:cadetblue ;
+}
+.menu span{
+    float: left;
+}
+.logosRss {
+    float: right;
+    width: 25%;
+}
+.imagenLogo{
+    width: 50%;
+    text-align: center;
+    float: left;
+}
+
+.imagenLogo img{
+    width: 25%;
+}
+
+span{
+    width: 25%;
+}
+.imagenAnchoCompleto img{
+    width: 100%;
+}
+.claseMedio{
+    float: left;
+    width: 100%;
+    background-color: aliceblue;
+}
+.imagenTexto{
+    float: left;
+    margin-top: 1%;
+    text-align: center;
+    width: 50%;
+}
+.imagenTexto img{
+    width: 50%;
+}
+.imagenTexto p{
+    text-align: center;
+}
+.imagenTexto2{
+    text-align: center;
+    width: 50%;
+    float: right;
+    margin-top: 1%;
+}
+.imagenTexto2 img{
+    width: 60%;
+}
+.imagenTexto2 p{
+    text-align: center;
+}
+.bloqueTexto {
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 20%;
+}
+.bloqueTexto p{
+    max-width: 1200px;
+    text-align: center;
+}
+.pieDePagina{
+    background-color: bisque;
+    text-align: center;
+    display: flex;
+}
+.enlace1{
+    width: 25%;
+}
+.enlace2{
+    width: 25%;
+}
+.enlace3{
+    width: 25%;
+}
+.enlace4{
+    width: 25%;
+}
+.firmaPie{
+    float: left;
+    width: 100%;
+    background-color:aqua
+}
+.nombreTienda{
+    float: left;
+}
+.miNombre{
+    float: right;
+}
+ul{
+    list-style: none;
+}
