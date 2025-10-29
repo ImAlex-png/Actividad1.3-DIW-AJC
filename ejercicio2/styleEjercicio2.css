@@ -1,4 +1,3 @@
-
 .menu{
     width: 100%;
     text-align: center;
@@ -26,6 +25,10 @@ span{
     width: 25%;
 }
 .imagenAnchoCompleto img{
+    width: 100%;
+}
+.imagenAnchoCompleto{
+    float: left;
     width: 100%;
 }
 .claseMedio{
@@ -61,7 +64,6 @@ span{
     width: 50%;
     margin-left: 25%;
     margin-right: 25%;
-    margin-top: 20%;
 }
 .bloqueTexto p{
     max-width: 1200px;
@@ -98,3 +100,59 @@ span{
 ul{
     list-style: none;
 }
+.lista{
+    background-color: cadetblue;
+    float: right;
+    
+}
+.navegacion{
+    width: 100%;
+}
+
+/*
+FULL NEGRO
+*/
+
+body.modo-oscuro,
+body.modo-oscuro nav,
+body.modo-oscuro div,
+body.modo-oscuro span,
+body.modo-oscuro ul{
+    color: white;
+    background-color: black;
+}
+
+/*
+MONOCROMO
+*/
+
+body.monocromo,
+body.monocromo nav,
+body.monocromo div,
+body.monocromo span,
+body.monocromo ul{
+   filter: grayscale(100%);
+}
+
+/*
+ALTO CONTRASTE
+*/
+
+body.altoContraste,
+body.altoContraste nav,
+body.altoContraste div,
+body.altoContraste span,
+body.altoContraste ul{
+   filter: contrast(180%);
+}
+
+/*
+DESTACAR ENLACES
+*/
+
+
+body.destacarEnlaces a{
+    background-color: orangered;
+    font-style: italic;
+}
+

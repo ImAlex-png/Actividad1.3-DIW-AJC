@@ -2,12 +2,11 @@
     width: 100%;
     text-align: center;
     background-color: cadetblue;
-    color: white;
 }
 
 .menu span {
     font-size: 2rem;
- 
+
 }
 
 .imagenLogo img {
@@ -17,8 +16,6 @@
 
 .logosRss i {
     font-size: 1.5rem;
-    
-    
 }
 
 .imagenAnchoCompleto img {
@@ -29,7 +26,7 @@
 
 .claseMedio {
     background-color: aliceblue;
-    padding: 2% ;
+    padding: 2%;
 }
 
 .imagenTexto img,
